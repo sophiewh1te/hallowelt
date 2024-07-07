@@ -1,1 +1,11 @@
 /* Empty for now */
+
+a {
+  color: #585858;
+}
+
+body {
+  background-color: #f7f7f7;
+  color: #585858;
+  font-size: 125%;
+}
